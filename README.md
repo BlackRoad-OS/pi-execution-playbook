@@ -1,3 +1,9 @@
+# pi-execution-playbook
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/pi-execution-playbook)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/pi-execution-playbook)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # 🚀 PI AI EXECUTION PLAYBOOK
 
 **The complete operational system for launching a $100M+ edge AI company**
